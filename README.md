@@ -8,6 +8,15 @@ A VS Code extension that copies all file paths and line numbers from "Find All R
 2. **Open Command Palette** - Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
 3. **Run command** - Type `Copy All Reference Paths` and press Enter
 
+### Download the extension file:  
+📦 **[copy-all-references-0.0.1.vsix](./copy-all-references-0.0.1.vsix)**
+
+## Demonstration
+
+<div align="center">
+  <img src="demo.gif" alt="Демонстрация работы расширения" width="760" />
+</div>
+
 ## Example
 
 After finding references to a function, the extension will copy:
